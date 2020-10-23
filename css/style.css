@@ -2,9 +2,14 @@
   text-align: center;
 }
 
-img{
-  height: 30%;
+.foto1 img{
+  width: 40%;
 }
+
+.foto2 img{
+  width: 65%;
+}
+
 
 /* utility class */
 
