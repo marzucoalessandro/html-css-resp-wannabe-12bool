@@ -3,13 +3,13 @@
 }
 
 img{
-  width: 30%;
+  height: 30%;
 }
 
 /* utility class */
 
 .mg-bt-30{
-  margin-bottom: 30px;
+  margin-bottom: 80px;
 }
 
 .bg-grey{
@@ -20,7 +20,10 @@ img{
   margin-top: 50px;
 }
 
-.bd-rad{
+.bd-rad img{
   border-radius: 50%;
-  color: blue;
+  background-color: #428bca;
+  padding: 20px;
+  width: 20%;
+  margin-top: 50px;
 }
