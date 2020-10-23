@@ -1,5 +1,5 @@
  .debug [class*="col-"] {
-  height: 200px;
+  height: 100px;
   background-color: pink;
   border: 1px solid black;
 }
