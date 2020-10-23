@@ -1,17 +1,8 @@
-.txt-c{
-  text-align: center;
-}
-
-.foto1 img{
-  width: 40%;
-}
-
-.foto2 img{
-  width: 65%;
-}
-
-
 /* utility class */
+
+.pd-5{
+  padding: 5px;
+}
 
 .mg-bt-30{
   margin-bottom: 80px;
@@ -24,6 +15,22 @@
 .mg-top-50{
   margin-top: 50px;
 }
+.txt-c{
+  text-align: center;
+}
+
+
+.row h1,h3,img,p {
+  padding: 10px;
+}
+
+.foto1 img{
+  width: 40%;
+}
+
+.foto2 img{
+  width: 65%;
+}
 
 .bd-rad img{
   border-radius: 50%;
@@ -31,4 +38,8 @@
   padding: 20px;
   width: 20%;
   margin-top: 50px;
+}
+
+#centre .col-lg-4 img{
+  width: 50%;
 }
