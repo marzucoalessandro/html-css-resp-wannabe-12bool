@@ -19,3 +19,8 @@ img{
 .mg-top-50{
   margin-top: 50px;
 }
+
+.bd-rad{
+  border-radius: 50%;
+  color: blue;
+}
